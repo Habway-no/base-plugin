@@ -14,8 +14,7 @@ public class Main extends HabboPlugin implements EventListener {
 
 	@Override
 	public boolean hasPermission(Habbo habbo, String string) {
-
-		return true;
+		return false;
 	}
 
 	@Override
