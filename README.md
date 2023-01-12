@@ -5,6 +5,7 @@
 * Maven
 
 #### How to setup:
+* Import into your favourite IDE (i.e Eclipse)
 * Change all `no.package.name` references in the project to your package name (including folders).
 * Edit `/src/main/resources/plugin.json`.
 * Start Coding in the `/src/main/java/no/package/name/Main.class` file.
